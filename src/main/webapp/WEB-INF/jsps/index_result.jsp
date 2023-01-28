@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Result</title>
+<title>index Result</title>
 </head>
 <body>
       <h2>Overall Satisfaction</h2>
